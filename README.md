@@ -1,2 +1,3 @@
-# Movie Spoiler Revealer
- simple hide-show done with jquery
+Movie spoiler revealer made with jquery
+
+This project was done at treehouse
